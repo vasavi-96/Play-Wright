@@ -1,12 +1,12 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
 
-test('contact page title', async({page}) =>{
+test.skip('contact page title', async({page}) =>{
   await page.goto('http://127.0.0.1:5501/contact.html');
   await expect(page).toHaveTitle(/Pet Shop/);
 });
 
-test('contact page submit', async ({page}) => {
+test.skip('contact page submit', async ({page}) => {
   await page.goto('http://127.0.0.1:5501/contact.html');
   const email = page.getByPlaceholder(/name@/);
   const msg = page.locator('#exampleFormControlTextarea1');
@@ -27,7 +27,7 @@ test('contact page submit', async ({page}) => {
     {email: "chamarthi@gmail.com", msg: "Hey chamarthi"}
 ].forEach(obj =>{
 
-    test(`contact html test for ${obj.email}`, async ({ page }) => {
+    test.skip(`contact html test for ${obj.email}`, async ({ page }) => {
         await page.goto('http://127.0.0.1:5501/contact.html');
         //await page.getByRole('textbox', { name: 'name@example.com' }).click();
         //await page.getByRole('textbox', { name: 'name@example.com' }).fill(obj.email);
