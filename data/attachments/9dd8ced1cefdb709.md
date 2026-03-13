@@ -1,0 +1,730 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "SKIP TO MAIN CONTENT" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - generic:
+      - banner [ref=e4]:
+        - region [ref=e11]:
+          - generic [ref=e17]:
+            - text: Find your perfect Range Rover.
+            - link "Search in stock vehicles." [ref=e18] [cursor=pointer]:
+              - /url: https://www.findmeasuv.in/stock_data/new/range_rover_family
+        - navigation [ref=e22]:
+          - generic [ref=e23]:
+            - list [ref=e25]:
+              - listitem [ref=e26]:
+                - button "Vehicles" [expanded] [ref=e27] [cursor=pointer]:
+                  - generic [ref=e30]: VEHICLES
+              - listitem [ref=e31]:
+                - button "Owners" [ref=e32] [cursor=pointer]:
+                  - generic [ref=e35]: OWNERS
+              - listitem [ref=e36]:
+                - button "Explore" [ref=e37] [cursor=pointer]:
+                  - generic [ref=e40]: EXPLORE
+              - listitem
+              - listitem [ref=e41]:
+                - button "Shop Now" [ref=e42] [cursor=pointer]:
+                  - generic [ref=e45]: SHOP NOW
+            - link [ref=e47] [cursor=pointer]:
+              - /url: /en-in/index.html
+              - img [ref=e49]
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - link "Retailers" [ref=e53] [cursor=pointer]:
+                  - /url: /en-in/national-dealer-locator.html
+                  - generic [ref=e54]:
+                    - img [ref=e56]
+                    - generic [ref=e59]: RETAILERS
+              - listitem [ref=e60]:
+                - button "Builds" [ref=e61] [cursor=pointer]:
+                  - generic [ref=e62]:
+                    - img [ref=e64]
+                    - generic [ref=e67]: BUILDS
+              - listitem [ref=e68]:
+                - button "SUPPORT & CHAT" [ref=e69] [cursor=pointer]:
+                  - generic [ref=e70]:
+                    - img [ref=e72]
+                    - generic [ref=e75]: SUPPORT & CHAT
+      - generic:
+        - button [ref=e76] [cursor=pointer]
+        - generic [ref=e82]:
+          - button [ref=e84] [cursor=pointer]:
+            - img [ref=e85]
+          - generic [ref=e92]:
+            - generic [ref=e94]:
+              - generic [ref=e96]:
+                - 'link "RANGE ROVER Price from: ₹ 23 100 000*" [ref=e97] [cursor=pointer]':
+                  - /url: https://www.rangerover.com/en-in/range-rover/index.html
+                  - generic [ref=e101]:
+                    - heading "RANGE ROVER" [level=4] [ref=e102]
+                    - paragraph [ref=e103]: "Price from: ₹ 23 100 000*"
+                  - img [ref=e104]
+                - link "RANGE ROVER SV" [ref=e106] [cursor=pointer]:
+                  - /url: https://www.rangerover.com/en-in/range-rover/sv.html
+                  - generic [ref=e110]:
+                    - heading "RANGE ROVER SV" [level=4] [ref=e111]
+                    - paragraph
+                  - img [ref=e112]
+                - 'link "RANGE ROVER SPORT Price from: ₹ 13 766 000*" [ref=e114] [cursor=pointer]':
+                  - /url: https://www.rangerover.com/en-in/range-rover-sport/index.html
+                  - generic [ref=e118]:
+                    - heading "RANGE ROVER SPORT" [level=4] [ref=e119]
+                    - paragraph [ref=e120]: "Price from: ₹ 13 766 000*"
+                  - img [ref=e121]
+                - link "RANGE ROVER SPORT SV" [ref=e123] [cursor=pointer]:
+                  - /url: https://www.rangerover.com/en-in/range-rover-sport/sv.html
+                  - generic [ref=e127]:
+                    - heading "RANGE ROVER SPORT SV" [level=4] [ref=e128]
+                    - paragraph
+                  - img [ref=e129]
+                - 'link "RANGE ROVER VELAR Price from: ₹ 8 590 000*" [ref=e131] [cursor=pointer]':
+                  - /url: https://www.rangerover.com/en-in/range-rover-velar/index.html
+                  - generic [ref=e135]:
+                    - heading "RANGE ROVER VELAR" [level=4] [ref=e136]
+                    - paragraph [ref=e137]: "Price from: ₹ 8 590 000*"
+                  - img [ref=e138]
+                - 'link "RANGE ROVER EVOQUE Price from: ₹ 6 486 000*" [ref=e140] [cursor=pointer]':
+                  - /url: https://www.rangerover.com/en-in/range-rover-evoque/index.html
+                  - generic [ref=e144]:
+                    - heading "RANGE ROVER EVOQUE" [level=4] [ref=e145]
+                    - paragraph [ref=e146]: "Price from: ₹ 6 486 000*"
+                  - img [ref=e147]
+              - list [ref=e151]:
+                - listitem [ref=e152]:
+                  - link "COMPARE OUR VEHICLES" [ref=e153] [cursor=pointer]:
+                    - /url: /en-in/comparison.html
+                    - img [ref=e154]
+                    - text: COMPARE OUR VEHICLES
+                - listitem [ref=e156]:
+                  - link "ELECTRIC" [ref=e157] [cursor=pointer]:
+                    - /url: /en-in/electric/index.html
+                    - img [ref=e158]
+                    - text: ELECTRIC
+                - listitem [ref=e160]:
+                  - link "CLASSIC" [ref=e161] [cursor=pointer]:
+                    - /url: /en-in/explore/classic/index.html
+                    - img [ref=e162]
+                    - text: CLASSIC
+                - listitem [ref=e164]:
+                  - link "SV" [ref=e165] [cursor=pointer]:
+                    - /url: /en-in/special-vehicle-operations/index.html
+                    - img [ref=e166]
+                    - text: SV
+            - generic [ref=e170]:
+              - heading "RANGE ROVER" [level=3] [ref=e171]
+              - paragraph [ref=e173]: Go anywhere, composed everywhere.
+              - generic [ref=e175]:
+                - paragraph [ref=e176]:
+                  - text: "Price from:"
+                  - strong [ref=e177]: ₹ 23 100 000*
+                - list
+              - generic [ref=e178]:
+                - link "EXPLORE" [ref=e180] [cursor=pointer]:
+                  - /url: /en-in/range-rover/index.html
+                  - img [ref=e181]
+                  - generic [ref=e183]: EXPLORE
+                - link "BUILD YOUR OWN" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.rangerover.com/lr/en_in/l460_/_/ipr/personalise
+                  - img [ref=e186]
+                  - generic [ref=e188]: BUILD YOUR OWN
+                - link "RESERVE ONLINE" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.findmeasuv.in/stock_data/new/the_new_range_rover
+                  - img [ref=e191]
+                  - generic [ref=e193]: RESERVE ONLINE
+          - generic [ref=e199]:
+            - generic [ref=e201]: "OUR OTHER BRANDS:"
+            - link [ref=e203] [cursor=pointer]:
+              - /url: https://www.landrover.in/defender/index.html
+              - img [ref=e205]
+            - link [ref=e207] [cursor=pointer]:
+              - /url: https://www.landrover.in/discovery/index.html
+              - img [ref=e209]
+    - main [ref=e211]:
+      - generic [ref=e217]:
+        - generic [ref=e221]:
+          - generic:
+            - generic:
+              - generic "null"
+            - button "󡂑 " [ref=e224] [cursor=pointer]:
+              - generic [ref=e225]: 󡂑
+              - generic [ref=e226]: 
+              - img [ref=e227]
+          - generic:
+            - generic:
+              - heading "LEAD BY EXAMPLE" [level=1] [ref=e229]:
+                - paragraph [ref=e230]: LEAD BY EXAMPLE
+              - paragraph [ref=e232]: Designed in the UK and built in India.
+              - link " EXPLORE" [ref=e234] [cursor=pointer]:
+                - /url: "#explore"
+                - text: 
+                - generic [ref=e235]: EXPLORE
+          - button "" [ref=e236] [cursor=pointer]:
+            - generic [ref=e237]: 
+        - generic [ref=e243]:
+          - generic [ref=e244]:
+            - generic [ref=e247]:
+              - generic [ref=e248]:
+                - list
+                - img "Side view of the parked car" [ref=e253]
+              - generic [ref=e254]:
+                - generic [ref=e255]:
+                  - heading "RANGE ROVER" [level=2] [ref=e256]:
+                    - paragraph [ref=e257]: RANGE ROVER
+                  - paragraph [ref=e258]: "Price from: ₹ 23 100 000*"
+                  - paragraph [ref=e260]: Go anywhere, composed everywhere.
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "EXPLORE:RANGE ROVER" [ref=e263] [cursor=pointer]:
+                        - /url: /en-in/range-rover/index.html
+                        - text: 
+                        - generic [ref=e264]: EXPLORE
+                      - link "BUILD YOUR OWN:RANGE ROVER" [ref=e267] [cursor=pointer]:
+                        - /url: https://www.rangerover.com/lr/en_in/l460_/_/ipr/personalise
+                        - text:  BUILD YOUR OWN
+            - generic [ref=e270]:
+              - generic [ref=e271]:
+                - list
+                - img "Range Rover Sport Santorini Black parked" [ref=e276]
+              - generic [ref=e277]:
+                - generic [ref=e278]:
+                  - heading "RANGE ROVER SPORT" [level=2] [ref=e279]:
+                    - paragraph [ref=e280]: RANGE ROVER SPORT
+                  - paragraph [ref=e281]: "Price from: ₹ 13 766 000*"
+                  - paragraph [ref=e283]: The most dynamic Range Rover Sport ever.
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "EXPLORE" [ref=e286] [cursor=pointer]:
+                        - /url: /en-in/new-range-rover-sport/index.html
+                        - text: 
+                        - generic [ref=e287]: EXPLORE
+                      - link "BUILD YOUR OWN:RANGE ROVER SPORT" [ref=e290] [cursor=pointer]:
+                        - /url: https://www.rangerover.com/lr/en_in/l461/ipr/personalise/
+                        - text:  BUILD YOUR OWN
+            - generic [ref=e293]:
+              - generic [ref=e294]:
+                - list
+                - img "Range Rover Velar with glass background" [ref=e299]
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - heading "RANGE ROVER VELAR" [level=2] [ref=e302]:
+                    - paragraph [ref=e303]: RANGE ROVER VELAR
+                  - paragraph [ref=e304]: "Price from: ₹ 8 590 000*"
+                  - paragraph [ref=e306]: Desirable by design.
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "EXPLORE:RANGE ROVER VELAR" [ref=e309] [cursor=pointer]:
+                        - /url: /en-in/range-rover-velar/index.html
+                        - text: 
+                        - generic [ref=e310]: EXPLORE
+                      - 'link "BUILD YOUR OWN: RANGE ROVER VELAR" [ref=e313] [cursor=pointer]':
+                        - /url: https://www.rangerover.com/lr/en_in/l560/ipr/personalise/
+                        - text:  BUILD YOUR OWN
+            - generic [ref=e316]:
+              - generic [ref=e317]:
+                - list
+                - img "Side view of Range Rover Evoque" [ref=e322]
+              - generic [ref=e323]:
+                - generic [ref=e324]:
+                  - heading "RANGE ROVER EVOQUE" [level=2] [ref=e325]:
+                    - paragraph [ref=e326]: RANGE ROVER EVOQUE
+                  - paragraph [ref=e327]: "Price from: ₹ 6 486 000*"
+                  - paragraph [ref=e329]: Captivating, sophisticated and charismatic.
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "EXPLORE:RANGE ROVER EVOQUE" [ref=e332] [cursor=pointer]:
+                        - /url: /en-in/range-rover-evoque/index.html
+                        - text: 
+                        - generic [ref=e333]: EXPLORE
+                      - 'link "BUILD YOUR OWN: RANGE ROVER EVOQUE" [ref=e336] [cursor=pointer]':
+                        - /url: https://www.rangerover.com/lr/en_in/l551/
+                        - text:  BUILD YOUR OWN
+          - text:  
+        - group [ref=e338]:
+          - generic [ref=e339]:
+            - button "Go to previous slide" [ref=e340] [cursor=pointer]:
+              - img [ref=e341]
+            - button "Go to next slide" [ref=e343] [cursor=pointer]:
+              - img [ref=e344]
+            - generic [ref=e348]:
+              - button "Go to previous slide" [ref=e349] [cursor=pointer]:
+                - img [ref=e350]
+              - generic [ref=e352]: 1 / 3
+              - button "Go to next slide" [ref=e353] [cursor=pointer]:
+                - img [ref=e354]
+            - generic [ref=e356]:
+              - tabpanel [ref=e357]:
+                - generic [ref=e360]:
+                  - generic [ref=e361]:
+                    - heading "RANGE ROVER SPORT SV CARBON" [level=2] [ref=e362]:
+                      - paragraph [ref=e364]: RANGE ROVER SPORT SV CARBON
+                    - generic [ref=e365]:
+                      - paragraph
+                      - paragraph [ref=e366]: Ultra-lightweight detailing for enhanced performance.
+                      - paragraph
+                    - link "FIND OUT MORE" [ref=e369] [cursor=pointer]:
+                      - /url: /en-in/new-range-rover-sport/sv.html#sv-carbon
+                      - text: 
+                      - generic [ref=e370]: FIND OUT MORE
+                  - img "Range Rover Sport in Firenze Red" [ref=e373]
+              - tabpanel [ref=e374]:
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - heading "RANGE ROVER SV MASĀRA EDITION" [level=2] [ref=e379]:
+                      - paragraph [ref=e381]: RANGE ROVER SV MASĀRA EDITION
+                    - generic:
+                      - paragraph
+                    - generic [ref=e382]:
+                      - link "EXPLORE:RANGE ROVER SV MASĀRA EDITION" [ref=e384] [cursor=pointer]:
+                        - /url: /en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition.html
+                        - text: 
+                        - generic [ref=e385]: EXPLORE
+                      - link "VIEW GALLERY:RANGE ROVER SV MASĀRA EDITION" [ref=e387] [cursor=pointer]:
+                        - /url: /en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition-gallery.html
+                        - text:  VIEW GALLERY
+                  - img "Masara Edition" [ref=e390]
+              - tabpanel [ref=e391]:
+                - generic [ref=e394]:
+                  - generic [ref=e395]:
+                    - heading "RANGE ROVER SPORT" [level=2] [ref=e396]:
+                      - paragraph [ref=e398]: RANGE ROVER SPORT
+                    - generic [ref=e399]:
+                      - paragraph
+                      - paragraph [ref=e400]: Dynamic by design. Designed and built in the UK.
+                      - paragraph
+                    - link "FIND OUT MORE:RANGE ROVER SPORT" [ref=e403] [cursor=pointer]:
+                      - /url: /en-in/new-range-rover-sport/index.html
+                      - text: 
+                      - generic [ref=e404]: FIND OUT MORE
+                  - img "Range rover sport velocity blue" [ref=e407]
+              - tabpanel [ref=e408]:
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - heading "RANGE ROVER SPORT SV CARBON" [level=2] [ref=e413]:
+                      - paragraph [ref=e415]: RANGE ROVER SPORT SV CARBON
+                    - generic [ref=e416]:
+                      - paragraph
+                      - paragraph [ref=e417]: Ultra-lightweight detailing for enhanced performance.
+                      - paragraph
+                    - link "FIND OUT MORE" [ref=e420] [cursor=pointer]:
+                      - /url: /en-in/new-range-rover-sport/sv.html#sv-carbon
+                      - text: 
+                      - generic [ref=e421]: FIND OUT MORE
+                  - img "Range Rover Sport in Firenze Red" [ref=e424]
+              - tabpanel [ref=e425]:
+                - generic [ref=e428]:
+                  - generic [ref=e429]:
+                    - heading "RANGE ROVER SV MASĀRA EDITION" [level=2] [ref=e430]:
+                      - paragraph [ref=e432]: RANGE ROVER SV MASĀRA EDITION
+                    - generic:
+                      - paragraph
+                    - generic [ref=e433]:
+                      - link "EXPLORE:RANGE ROVER SV MASĀRA EDITION" [ref=e435] [cursor=pointer]:
+                        - /url: /en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition.html
+                        - text: 
+                        - generic [ref=e436]: EXPLORE
+                      - link "VIEW GALLERY:RANGE ROVER SV MASĀRA EDITION" [ref=e438] [cursor=pointer]:
+                        - /url: /en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition-gallery.html
+                        - text:  VIEW GALLERY
+                  - img "Masara Edition" [ref=e441]
+              - tabpanel [ref=e442]:
+                - generic [ref=e445]:
+                  - generic [ref=e446]:
+                    - heading "RANGE ROVER SPORT" [level=2] [ref=e447]:
+                      - paragraph [ref=e449]: RANGE ROVER SPORT
+                    - generic [ref=e450]:
+                      - paragraph
+                      - paragraph [ref=e451]: Dynamic by design. Designed and built in the UK.
+                      - paragraph
+                    - link "FIND OUT MORE:RANGE ROVER SPORT" [ref=e454] [cursor=pointer]:
+                      - /url: /en-in/new-range-rover-sport/index.html
+                      - text: 
+                      - generic [ref=e455]: FIND OUT MORE
+                  - img "Range rover sport velocity blue" [ref=e458]
+            - list:
+              - listitem
+              - listitem
+              - listitem
+        - generic [ref=e461]:
+          - generic [ref=e462]:
+            - generic [ref=e463]:
+              - img "Range Rover close-up of front grille" [ref=e466]
+              - img "Stylish women inside Range Rover" [ref=e469]
+            - generic [ref=e470]:
+              - img "Zoomed Back Left side of Range Rover and wing mirror" [ref=e473]
+              - generic [ref=e474]:
+                - img [ref=e477]
+                - button "Video paused, Play Video" [ref=e481] [cursor=pointer]:
+                  - img [ref=e482]
+          - generic [ref=e485]:
+            - generic [ref=e486]:
+              - heading "RANGE ROVER" [level=3] [ref=e487]:
+                - paragraph [ref=e488]: RANGE ROVER
+              - paragraph [ref=e490]: Go anywhere, composed everywhere.
+            - generic [ref=e491]:
+              - link "EXPLORE:RANGE ROVER" [ref=e493] [cursor=pointer]:
+                - /url: /en-in/range-rover/index.html
+                - text: 
+                - generic [ref=e494]: EXPLORE
+              - link "BUILD YOUR OWN:RANGE ROVER" [ref=e496] [cursor=pointer]:
+                - /url: https://www.rangerover.com/lr/en_in/l460_/_/ipr/personalise
+                - text:  BUILD YOUR OWN
+        - generic [ref=e499]:
+          - generic [ref=e500]:
+            - generic [ref=e501]:
+              - img "Range Rover sports blue velocity door openr" [ref=e504]
+              - img "Range Rover Sport in Velocity Blue, featuring Theo James." [ref=e507]
+            - generic [ref=e508]:
+              - img "Range Rover Sports hand stick gear" [ref=e511]
+              - generic [ref=e512]:
+                - img [ref=e515]
+                - button "Video paused, Play Video" [ref=e519] [cursor=pointer]:
+                  - img [ref=e520]
+          - generic [ref=e523]:
+            - generic [ref=e524]:
+              - heading "RANGE ROVER SPORT" [level=3] [ref=e525]:
+                - paragraph [ref=e526]: RANGE ROVER SPORT
+              - paragraph [ref=e528]: The most dynamic Range Rover Sport ever.
+            - generic [ref=e529]:
+              - link "EXPLORE:RANGE ROVER SPORT" [ref=e531] [cursor=pointer]:
+                - /url: /en-in/new-range-rover-sport/index.html
+                - text: 
+                - generic [ref=e532]: EXPLORE
+              - link "BUILD YOUR OWN:RANGE ROVER SPORT" [ref=e534] [cursor=pointer]:
+                - /url: https://www.rangerover.com/lr/en_in/l461/ipr/personalise/
+                - text:  BUILD YOUR OWN
+        - generic [ref=e537]:
+          - generic [ref=e538]:
+            - generic [ref=e539]:
+              - img "Interior steering wheel of Range Rover Velar" [ref=e542]
+              - img "Range Rover Velar closeup of the headlight" [ref=e545]
+            - generic [ref=e546]:
+              - img "Close up of woman driving a Range Rover Velar" [ref=e549]
+              - generic [ref=e550]:
+                - img [ref=e553]
+                - button "Video paused, Play Video" [ref=e557] [cursor=pointer]:
+                  - img [ref=e558]
+          - generic [ref=e561]:
+            - generic [ref=e562]:
+              - heading "RANGE ROVER VELAR" [level=3] [ref=e563]:
+                - paragraph [ref=e564]: RANGE ROVER VELAR
+              - paragraph [ref=e566]: Desirable by design.
+            - generic [ref=e567]:
+              - link "EXPLORE:RANGE ROVER VELAR" [ref=e569] [cursor=pointer]:
+                - /url: /en-in/range-rover-velar/index.html
+                - text: 
+                - generic [ref=e570]: EXPLORE
+              - link "BUILD YOUR OWN:RANGE ROVER VELAR" [ref=e572] [cursor=pointer]:
+                - /url: https://www.rangerover.com/lr/en_in/l560/ipr/personalise/
+                - text:  BUILD YOUR OWN
+        - generic [ref=e575]:
+          - generic [ref=e576]:
+            - generic [ref=e577]:
+              - img "Range Rover Evoque tail light" [ref=e580]
+              - img "Range Rover Evoque standing on motor showroom" [ref=e583]
+            - generic [ref=e584]:
+              - img "Woman sat in Range Rover Evoque, side on, close up angle" [ref=e587]
+              - generic [ref=e588]:
+                - img [ref=e591]
+                - button "Video paused, Play Video" [ref=e595] [cursor=pointer]:
+                  - img [ref=e596]
+          - generic [ref=e599]:
+            - generic [ref=e600]:
+              - heading "RANGE ROVER EVOQUE" [level=3] [ref=e601]:
+                - paragraph [ref=e602]: RANGE ROVER EVOQUE
+              - paragraph [ref=e604]: Captivating, sophisticated and charismatic.
+            - generic [ref=e605]:
+              - link "EXPLORE:RANGE ROVER EVOQUE" [ref=e607] [cursor=pointer]:
+                - /url: /en-in/range-rover-evoque/index.html
+                - text: 
+                - generic [ref=e608]: EXPLORE
+              - link "BUILD YOUR OWN:RANGE ROVER EVOQUE" [ref=e610] [cursor=pointer]:
+                - /url: https://www.rangerover.com/lr/en_in/l551/
+                - text:  BUILD YOUR OWN
+        - group [ref=e612]:
+          - generic [ref=e613]:
+            - generic [ref=e615]:
+              - tabpanel [ref=e616]:
+                - generic [ref=e618]:
+                  - img "Half Front view of the Range Rover Sports" [ref=e621]
+                  - generic [ref=e622]:
+                    - generic [ref=e623]:
+                      - heading "RANGE ROVER CHAPTERS" [level=2] [ref=e624]:
+                        - paragraph [ref=e625]: RANGE ROVER CHAPTERS
+                      - paragraph [ref=e627]: The story of the original luxury SUV.
+                    - link "EXPLORE:RANGE ROVER CHAPTERS" [ref=e629] [cursor=pointer]:
+                      - /url: /en-in/explore/range-rover-chapters/index.html
+                      - text: 
+                      - generic [ref=e630]: EXPLORE
+              - tabpanel [ref=e631]:
+                - generic [ref=e633]:
+                  - img "Wimbledon Montage" [ref=e636]
+                  - generic [ref=e637]:
+                    - generic [ref=e638]:
+                      - heading "THE CHAMPIONSHIPS, WIMBLEDON 2025" [level=2] [ref=e639]:
+                        - paragraph [ref=e640]: THE CHAMPIONSHIPS, WIMBLEDON 2025
+                      - paragraph [ref=e642]: Range Rover is proud to partner with The Championships, Wimbledon, bringing together our shared passion for refinement and sustainability.
+                    - link "EXPLORE WIMBLEDON" [ref=e644] [cursor=pointer]:
+                      - /url: /en-in/explore/range-rover-chapters/wimbledon/index.html
+                      - text: 
+                      - generic [ref=e645]: EXPLORE WIMBLEDON
+              - tabpanel [ref=e646]:
+                - generic [ref=e648]:
+                  - img "SV logo" [ref=e651]
+                  - generic [ref=e652]:
+                    - generic [ref=e653]:
+                      - heading "SV BESPOKE" [level=2] [ref=e654]:
+                        - paragraph [ref=e655]: SV BESPOKE
+                      - paragraph [ref=e657]: We make it special. You make it unique.
+                    - link "EXPLORE:SV BESPOKE" [ref=e659] [cursor=pointer]:
+                      - /url: /en-in/special-vehicle-operations/sv-bespoke.html
+                      - text: 
+                      - generic [ref=e660]: EXPLORE
+              - tabpanel [ref=e661]:
+                - generic [ref=e663]:
+                  - img "Infotainment System Features of the modern luxury car" [ref=e666]
+                  - generic [ref=e667]:
+                    - generic [ref=e668]:
+                      - heading "YOUR CALM SANCTUARY" [level=2] [ref=e669]:
+                        - paragraph [ref=e670]: YOUR CALM SANCTUARY
+                      - paragraph [ref=e672]: Active Noise Cancellation creates a cabin of calm sanctuary.
+                    - link "EXPLORE:YOUR CALM SANCTUARY" [ref=e674] [cursor=pointer]:
+                      - /url: /en-in/range-rover/highlights
+                      - text: 
+                      - generic [ref=e675]: EXPLORE
+            - list:
+              - listitem
+              - listitem
+              - listitem
+              - listitem
+        - generic [ref=e678]:
+          - generic [ref=e679]:
+            - heading "UNVEIL NEW PERSPECTIVES" [level=2] [ref=e680]:
+              - paragraph [ref=e681]: UNVEIL NEW PERSPECTIVES
+            - paragraph [ref=e683]: Continue your journey with us.
+          - generic [ref=e687]:
+            - generic [ref=e691]:
+              - generic:
+                - list
+                - generic:
+                  - generic:
+                    - img "HOB Image"
+              - generic [ref=e692]:
+                - generic [ref=e693]:
+                  - heading "TEST DRIVE" [level=3] [ref=e694]:
+                    - paragraph [ref=e695]: TEST DRIVE
+                  - paragraph [ref=e697]: At a time and location convenient to you.
+                - link "BOOK YOUR TEST DRIVE:TEST DRIVE" [ref=e700] [cursor=pointer]:
+                  - /url: https://forms.rangerover.com/rr-in-en/servlet/SmartForm.html?formCode=lr-td-in-en&variant=RangeRover
+                  - text:  BOOK YOUR TEST DRIVE
+            - generic [ref=e704]:
+              - generic:
+                - list
+                - generic:
+                  - generic:
+                    - img "HOB Image"
+              - generic [ref=e705]:
+                - generic [ref=e706]:
+                  - heading "SHOP" [level=3] [ref=e707]:
+                    - paragraph [ref=e708]: SHOP
+                  - paragraph [ref=e710]: Personalise and order your Range Rover online.
+                - link "BUILD AND ORDER:SHOP" [ref=e713] [cursor=pointer]:
+                  - /url: /en-in/build-your-own/index.html
+                  - text:  BUILD AND ORDER
+            - generic [ref=e717]:
+              - generic:
+                - list
+                - generic:
+                  - generic:
+                    - img "HOB Image"
+              - generic [ref=e718]:
+                - generic [ref=e719]:
+                  - heading "FINANCE" [level=3] [ref=e720]:
+                    - paragraph [ref=e721]: FINANCE
+                  - paragraph [ref=e723]: Tailored finance options to suit you.
+                - link "EXPLORE FINANCE OPTIONS:FINANCE" [ref=e726] [cursor=pointer]:
+                  - /url: https://www.landrover.in/offers-and-finance/retail-offers.html
+                  - text:  EXPLORE FINANCE OPTIONS
+        - generic [ref=e730]:
+          - generic:
+            - generic:
+              - generic:
+                - img
+          - generic [ref=e732]:
+            - heading "ROYAL WARRANT" [level=2] [ref=e734]
+            - paragraph [ref=e737]: We are proud to have been included in the initial grant of Royal Warrants by HM King Charles III in May 2024, as well as receiving a Royal Warrant from HM Queen Camilla in May 2025. This continues a proud history that extends to our first Warrant from HM King George VI in 1951.
+    - contentinfo [ref=e744]:
+      - generic [ref=e747]:
+        - generic [ref=e750]:
+          - heading "ALWAYS INFORMED" [level=2] [ref=e751]:
+            - paragraph [ref=e752]: ALWAYS INFORMED
+          - paragraph [ref=e754]: Range Rover updates provided by its creators
+        - generic [ref=e756]:
+          - textbox "Email Address" [ref=e758]
+          - link "subscribe" [ref=e759] [cursor=pointer]:
+            - /url: https://forms.rangerover.com/rr-in-en/servlet/SmartForm.html?formCode=lr-kmic2-in-en&variant=RangeRover
+            - generic [ref=e760]: SUBSCRIBE
+      - generic [ref=e761]:
+        - generic:
+          - generic [ref=e764]:
+            - heading "VEHICLES" [level=2] [ref=e765]
+            - list [ref=e766]:
+              - listitem [ref=e767]:
+                - link "RANGE ROVER:VEHICLES" [ref=e768] [cursor=pointer]:
+                  - /url: /en-in/range-rover/index.html
+                  - text: RANGE ROVER
+              - listitem [ref=e769]:
+                - link "RANGE ROVER SPORT:VEHICLES" [ref=e770] [cursor=pointer]:
+                  - /url: /en-in/new-range-rover-sport/index.html
+                  - text: RANGE ROVER SPORT
+              - listitem [ref=e771]:
+                - link "RANGE ROVER VELAR:VEHICLES" [ref=e772] [cursor=pointer]:
+                  - /url: /en-in/range-rover-velar/index.html
+                  - text: RANGE ROVER VELAR
+              - listitem [ref=e773]:
+                - link "RANGE ROVER EVOQUE:VEHICLES" [ref=e774] [cursor=pointer]:
+                  - /url: /en-in/range-rover-evoque/index.html
+                  - text: RANGE ROVER EVOQUE
+              - listitem [ref=e775]:
+                - link "SV:VEHICLES" [ref=e776] [cursor=pointer]:
+                  - /url: /en-in/special-vehicle-operations/index.html
+                  - text: SV
+              - listitem [ref=e777]:
+                - link "DIPLOMATIC SALES:VEHICLES" [ref=e778] [cursor=pointer]:
+                  - /url: https://www.landrover.in/fleet-and-business/vehicles-for-diplomats.html
+                  - text: DIPLOMATIC SALES
+          - generic [ref=e779]:
+            - heading "OWNERSHIP" [level=2] [ref=e780]
+            - list [ref=e781]:
+              - listitem [ref=e782]:
+                - link "OWNERSHIP SERVICES:OWNERSHIP" [ref=e783] [cursor=pointer]:
+                  - /url: https://www.landrover.in/ownership/index.html
+                  - text: OWNERSHIP SERVICES
+              - listitem [ref=e784]:
+                - link "INCONTROL:OWNERSHIP" [ref=e785] [cursor=pointer]:
+                  - /url: https://www.landrover.in/ownership/infotainment-systems/index.html
+                  - text: INCONTROL
+              - listitem [ref=e786]:
+                - link "SOFTWARE UPDATES:OWNERSHIP" [ref=e787] [cursor=pointer]:
+                  - /url: https://www.landrover.in/ownership/software-update/index.html
+                  - text: SOFTWARE UPDATES
+            - generic [ref=e789]:
+              - heading "ABOUT US" [level=2] [ref=e790]
+              - list [ref=e791]:
+                - listitem [ref=e792]:
+                  - link "JLR:ABOUT US" [ref=e793] [cursor=pointer]:
+                    - /url: https://www.jlr.com/
+                    - text: JLR
+                - listitem [ref=e794]:
+                  - link "SUSTAINABILITY:ABOUT US" [ref=e795] [cursor=pointer]:
+                    - /url: https://www.jlr.com/sustainability
+                    - text: SUSTAINABILITY
+          - generic [ref=e798]:
+            - heading "OUR BRANDS" [level=2] [ref=e799]
+            - list [ref=e800]:
+              - listitem [ref=e801]:
+                - 'link "RANGE ROVER: OUR BRANDS" [ref=e802] [cursor=pointer]':
+                  - /url: /en-in/index.html
+                  - text: RANGE ROVER
+              - listitem [ref=e803]:
+                - 'link "DEFENDER: OUR BRANDS" [ref=e804] [cursor=pointer]':
+                  - /url: https://www.landrover.in/defender/index.html
+                  - text: DEFENDER
+              - listitem [ref=e805]:
+                - 'link "DISCOVERY: OUR BRANDS" [ref=e806] [cursor=pointer]':
+                  - /url: https://www.landrover.in/discovery/index.html
+                  - text: DISCOVERY
+              - listitem [ref=e807]:
+                - 'link "JAGUAR: OUR BRANDS" [ref=e808] [cursor=pointer]':
+                  - /url: https://www.jaguar.in/index.html
+                  - text: JAGUAR
+          - generic [ref=e809]:
+            - heading "JOIN THE CONVERSATION" [level=2] [ref=e810]
+            - list [ref=e811]:
+              - listitem [ref=e812]:
+                - link "INSTAGRAM:JOIN THE CONVERSATION" [ref=e813] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rangerover/
+                  - generic [ref=e814]: 
+                  - strong [ref=e815]: INSTAGRAM
+              - listitem [ref=e816]:
+                - link "YOUTUBE:JOIN THE CONVERSATION" [ref=e817] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@LandRoverIndiaOfficial
+                  - generic [ref=e818]: 
+                  - strong [ref=e819]: YOUTUBE
+              - listitem [ref=e820]:
+                - link "FACEBOOK:JOIN THE CONVERSATION" [ref=e821] [cursor=pointer]:
+                  - /url: https://www.facebook.com/RangeRover
+                  - generic [ref=e822]: 
+                  - strong [ref=e823]: FACEBOOK
+              - listitem [ref=e824]:
+                - link "X:JOIN THE CONVERSATION" [ref=e825] [cursor=pointer]:
+                  - /url: https://x.com/RangeRover
+                  - strong [ref=e827]: X
+              - listitem [ref=e828]:
+                - link "LINKEDIN:JOIN THE CONVERSATION" [ref=e829] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/rangerover/
+                  - generic [ref=e830]: 
+                  - strong [ref=e831]: LINKEDIN
+        - generic [ref=e833]:
+          - searchbox "SEARCH OUR SITE" [ref=e834]
+          - text: SEARCH OUR SITE
+          - button "SEARCH" [ref=e835] [cursor=pointer]: 
+        - list [ref=e837]:
+          - listitem
+          - listitem [ref=e838]:
+            - button
+            - list [ref=e839]:
+              - listitem [ref=e840]:
+                - link "CHANGE MARKET" [ref=e841] [cursor=pointer]:
+                  - /url: https://www.rangerover.com/en-xi/market-selector/index.html
+              - listitem [ref=e842]:
+                - link "TERMS & CONDITIONS" [ref=e843] [cursor=pointer]:
+                  - /url: /en-in/terms-and-conditions.html
+              - listitem [ref=e844]:
+                - link "CONTACT US" [ref=e845] [cursor=pointer]:
+                  - /url: /en-in/ownership/contact-us/index.html
+              - listitem [ref=e846]:
+                - link "COOKIES & PRIVACY" [ref=e847] [cursor=pointer]:
+                  - /url: /en-in/privacy-policy.html
+        - generic [ref=e848]:
+          - list [ref=e849]:
+            - listitem [ref=e850]:
+              - link "CHANGE MARKET" [ref=e851] [cursor=pointer]:
+                - /url: https://www.rangerover.com/en-xi/market-selector/index.html
+            - listitem [ref=e852]:
+              - link "TERMS & CONDITIONS" [ref=e853] [cursor=pointer]:
+                - /url: /en-in/terms-and-conditions.html
+            - listitem [ref=e854]:
+              - link "CONTACT US" [ref=e855] [cursor=pointer]:
+                - /url: /en-in/ownership/contact-us/index.html
+            - listitem [ref=e856]:
+              - link "COOKIES & PRIVACY" [ref=e857] [cursor=pointer]:
+                - /url: /en-in/privacy-policy.html
+          - button "SHOW MORE" [ref=e858] [cursor=pointer]:
+            - generic [ref=e859]: SHOW MORE
+          - button "SHOW LESS" [ref=e860] [cursor=pointer]:
+            - generic [ref=e861]: SHOW LESS
+      - generic [ref=e864]:
+        - paragraph [ref=e868]: © JAGUAR LAND ROVER LIMITED 2026
+        - paragraph [ref=e869]: "Jaguar Land Rover Limited: Registered office: Abbey Road, Whitley, Coventry CV3 4LF. Registered in England No: 1672070"
+        - paragraph [ref=e870]: Smart Settings is intended to be released as part of a future wireless software update. Software development and releases are subject to movements in planning and programming, and dates may be subject to change.
+        - paragraph [ref=e871]: There is currently a global shortage of semi-conductor components. Jaguar Land Rover India Limited (JLRIL) is affected by this shortage and as a result, certain Jaguar and Land Rover products may not be available and delivery timelines for some products may be extended by authorised Jaguar Land Rover Retailers. Please contact your authorised Jaguar Land Rover Retailer for further updates.
+        - paragraph [ref=e872]: Accessories/features shown may not be part of standard equipment. iPod is a registered trademark of Apple Inc., registered in the US and other countries. Meridian is a registered trademark of Meridian Audio Ltd. Please note not all features set out above are available as standard for all Land Rover models. Some features are available as a [cost option] only. Please refer to the Owners Handbook for Navigation Terms and Conditions. The Information and specification shown are not binding and are subject to change without prior notice. These are indicative specifications for reference only.
+        - paragraph [ref=e873]: The figures provided are as a result of official manufacturer's tests in accordance with EU legislation. A vehicle's actual fuel consumption may differ from that achieved in such tests and these figures are for comparative purposes only.
+        - paragraph [ref=e874]: From 30 September 2019 Spotify will no longer be supporting the InControl Apps access. As the dominant preferred access by customers it will be available to customers via Smartphone Pack where installed.
+        - paragraph [ref=e875]: Important note on imagery & specification. The global shortage of semiconductors is currently affecting vehicle build specifications, option availability, and build timings. This is a very dynamic situation, and as a result imagery used within the website at present may not fully reflect current specifications for features, options, trim and colour schemes. Please consult your authorised Retailer who will be able to confirm any current restrictions with you in order to allow an informed choice.
+        - paragraph [ref=e876]: Jaguar Land Rover Limited is constantly seeking ways to improve the specification, design and production of its vehicles, parts and accessories and alterations take place continually, and we reserve the right to change without notice. Some features may vary between optional and standard for different model years. The information, specification, engines and colours on this website are based on European specification and may vary from market to market and are subject to change without notice. Some vehicles are shown with optional equipment and retailer-fit accessories that may not be available in all markets. Please contact your local retailer for local availability and prices.
+        - paragraph [ref=e877]:
+          - text: COLOURS
+          - text: Image colours reproduced here are provided for illustrative purposes only. Colours are reproduced on-screen and may therefore vary compared to the actual finish. The company reserves the right to alter or withdraw any colour finish without notice. Some of these colours may not be obtainable in your country. Please check availability of colours and current specifications with your Jaguar Retailer. Distributors and Retailers are not agents of Jaguar Land Rover Limited and have absolutely no authority to bind Jaguar Land Rover Limited to any express or implied undertaking or representation.
+        - paragraph [ref=e878]: The mapping on this website is provided by external mapping providers and is for general information purposes only.
+        - paragraph [ref=e879]
+        - paragraph [ref=e880]: "*The prices mentioned are ex-showroom and are subject to change without notice. The ex-showroom price does not include any optional items (such as accessories and other specialised items), which are at your discretion. The ex-showroom price is inclusive of GST (including compensation cess) and road service assistance (for breakdowns only) but excludes Vehicle Registration Tax, Tax Collected at Source (TCS) and Insurance Premium. For your information, the sale transaction will be directly between yourself and an independent Jaguar Land Rover India Limited (“JLRIL”) authorised retailer. Accessories/features/colours and other equipment shown may not be available on vehicles sold in India. Please contact your local Authorised Retailer for any information including the availability of vehicles, features, options, pricing etc. Jaguar Land Rover India Limited (“JLRIL”) is not involved in the sale transaction or the Assured Buy Back offer / campaign. The Assured Buy Back offer / campaign is at the sole discretion of a JLRIL authorised retailer. Please contact your nearest JLRIL authorised retailer for any information."
+  - text: 
+```
