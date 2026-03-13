@@ -1,0 +1,235 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - link "BEAUTY BONANZA Get Your Amazing Deals!" [ref=e10] [cursor=pointer]:
+          - /url: https://www.nykaa.com/sp/offers-native/offers
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "mobile icon Get App" [ref=e14] [cursor=pointer]:
+              - /url: /explore/lp
+              - img "mobile icon" [ref=e16]
+              - generic [ref=e20]: Get App
+          - listitem [ref=e21]:
+            - link "address icon Store & Events" [ref=e22] [cursor=pointer]:
+              - /url: /stores-n-events-desktop
+              - img "address icon" [ref=e24]
+              - generic [ref=e28]: Store & Events
+          - listitem [ref=e29]:
+            - link "giftcard icon Gift Card" [ref=e30] [cursor=pointer]:
+              - /url: /giftcard.html?root=hdr_giftcards
+              - img "giftcard icon" [ref=e32]
+              - generic [ref=e36]: Gift Card
+          - listitem [ref=e37]:
+            - link "help icon Help" [ref=e38] [cursor=pointer]:
+              - /url: https://www.nykaa.com/gateway-api/omsApis/helpCenter?domain=NYKAA
+              - img "help icon" [ref=e40]
+              - generic [ref=e44]: Help
+      - generic [ref=e46]:
+        - generic [ref=e48]:
+          - link "logo" [ref=e49] [cursor=pointer]:
+            - /url: /?root=logo
+            - img [ref=e50]
+          - list [ref=e53]:
+            - link "categories" [ref=e54] [cursor=pointer]:
+              - /url: /
+            - link "brands" [ref=e56] [cursor=pointer]:
+              - /url: /
+            - link "luxe" [ref=e57] [cursor=pointer]:
+              - /url: https://www.nykaa.com/sp/ultraluxe/nykaa-luxe
+            - button "Nykaa Fashion menu" [ref=e58] [cursor=pointer]: Nykaa Fashion
+            - button "beauty advice" [ref=e59] [cursor=pointer]: Beauty Advice
+          - generic [ref=e62]:
+            - button [ref=e63]:
+              - img [ref=e64]
+            - textbox "Search on Nykaa" [ref=e67]
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - button "Sign in" [ref=e71] [cursor=pointer]
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]: Login or Signup
+                - generic [ref=e75]: Register now and get 2000 Nykaa reward points instantly!
+              - generic [ref=e76]:
+                - generic [ref=e79]:
+                  - textbox "Mobile Number" [ref=e81]:
+                    - /placeholder: ""
+                  - generic [ref=e82]: Mobile Number
+                - button "Send OTP" [disabled] [ref=e85]
+              - generic [ref=e88]: Or sign in using
+              - button "Sign in with Mobile / Email" [ref=e91] [cursor=pointer]:
+                - text: Sign in with Mobile / Email
+                - img [ref=e93]
+              - button "Continue with Google" [ref=e95] [cursor=pointer]:
+                - text: Continue with Google
+                - img [ref=e96]
+          - button [ref=e103] [cursor=pointer]:
+            - img [ref=e104]
+      - navigation "Main navigation menu" [ref=e110]:
+        - menubar [ref=e111]:
+          - menuitem "makeup" [ref=e112] [cursor=pointer]
+          - menuitem "skin" [ref=e113] [cursor=pointer]
+          - menuitem "hair" [ref=e114] [cursor=pointer]
+          - menuitem "appliances" [ref=e115] [cursor=pointer]
+          - menuitem "Bath & Body" [ref=e116] [cursor=pointer]
+          - menuitem "Natural" [ref=e117] [cursor=pointer]
+          - menuitem "mom & baby" [ref=e118] [cursor=pointer]
+          - menuitem "Health & Wellness" [ref=e119] [cursor=pointer]
+          - menuitem "men" [ref=e120] [cursor=pointer]
+          - menuitem "fragrance" [ref=e121] [cursor=pointer]
+          - menuitem "Lingerie & Accessories" [ref=e122] [cursor=pointer]
+          - menuitem "Offers" [ref=e123] [cursor=pointer]
+  - generic [ref=e124]:
+    - generic [ref=e126]:
+      - generic [ref=e134]:
+        - link "75288" [ref=e144] [cursor=pointer]:
+          - /url: https://www.nykaa.com/brands/c/75288?transaction_id=71d03762faa91a491d2965182943c3ae
+          - img "75288" [ref=e145]
+        - generic [ref=e153] [cursor=pointer]:
+          - 'link "Bestsellers #1 Hydration Duo" [ref=e156]':
+            - /url: https://www.nykaa.com/brands/c/2371?transaction_id=f4c81dc642b6811736355ba42f6859d3
+            - img "2371" [ref=e157]
+          - generic [ref=e158]:
+            - generic [ref=e159]: Bestsellers
+            - generic [ref=e160]: "#1 Hydration Duo"
+        - generic [ref=e167] [cursor=pointer]:
+          - link "Bestsellers Starting ₹600" [ref=e170]:
+            - /url: https://www.nykaa.com/brands/c/23993?transaction_id=3734ed1b3a404dfa683e30c08213a494
+            - img "23993" [ref=e171]
+          - generic [ref=e172]:
+            - generic [ref=e173]: Bestsellers
+            - generic [ref=e174]: Starting ₹600
+        - generic [ref=e181] [cursor=pointer]:
+          - link "Get a Free Mini On Orders over ₹3300" [ref=e184]:
+            - /url: https://www.nykaa.com/brands/c/6519?transaction_id=f0953f4f984410ba51aaf126b2eff141
+            - img "6519" [ref=e185]
+          - generic [ref=e186]:
+            - generic [ref=e187]: Get a Free Mini
+            - generic [ref=e188]: On Orders over ₹3300
+        - generic [ref=e195] [cursor=pointer]:
+          - link "Upto 15% Off Extra 10% on ₹2499+" [ref=e198]:
+            - /url: https://www.nykaa.com/brands/c/68499?transaction_id=11e222528fede3ebf8350de9874912c9
+            - img "68499" [ref=e199]
+          - generic [ref=e200]:
+            - generic [ref=e201]: Upto 15% Off
+            - generic [ref=e202]: Extra 10% on ₹2499+
+        - generic [ref=e209] [cursor=pointer]:
+          - link "Triple Action Depigmentation" [ref=e212]:
+            - /url: https://www.nykaa.com/brands/c/5942?transaction_id=e0168af96176c6b2e0358d322a276d6e
+            - img "5942" [ref=e213]
+          - generic [ref=e214]:
+            - generic [ref=e215]: Triple Action
+            - generic [ref=e216]: Depigmentation
+        - generic [ref=e228] [cursor=pointer]:
+          - generic [ref=e229]: Up To 25% Off
+          - generic [ref=e230]: On Entire Brand!
+        - generic [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]: Flat 30% Off
+          - generic [ref=e244]: On Bestsellers!
+        - generic [ref=e268] [cursor=pointer]:
+          - generic [ref=e269]: Up To 30% Off
+          - generic [ref=e270]: On Curly Hair Range
+      - list [ref=e277]:
+        - listitem [ref=e278]:
+          - link "Extra20" [ref=e287] [cursor=pointer]:
+            - /url: https://www.nykaa.com/best-of-beauty/c/21447?transaction_id=c6f37fd6951e5b8a1e92a334beffdd47
+            - img "Extra20" [ref=e288]
+      - list [ref=e295]:
+        - listitem [ref=e296]:
+          - link "Nykaa Cosmetics" [ref=e305] [cursor=pointer]:
+            - /url: https://www.nykaa.com/brands/nykaa-cosmetics/c/1937?transaction_id=4b307cce215a553c58888e2a11f1dafe
+            - img "Nykaa Cosmetics" [ref=e306]
+      - list [ref=e313]:
+        - listitem [ref=e314]:
+          - link [ref=e325] [cursor=pointer]:
+            - /url: https://www.nykaa.com/brands/nykaa-cosmetics/c/1937?transaction_id=402d1f83200c12e9917aa4dac3db89ee
+      - generic [ref=e333]:
+        - generic [ref=e338]:
+          - link "Nykaa Cosmetics" [ref=e343] [cursor=pointer]:
+            - /url: https://www.nykaa.com/nykaa-cosmetics-diamond-jelly-cooling-shimmer-eyeshadow-stick-multi-use-high-shine-glitter/p/25929874?transaction_id=7d414f39d37b2d64361e6fae1d50665a
+            - img "Nykaa Cosmetics" [ref=e344]
+          - list [ref=e348] [cursor=pointer]:
+            - listitem [ref=e350]: New Launch Alert
+        - generic [ref=e355]:
+          - link "Nykaa Cosmetics" [ref=e360] [cursor=pointer]:
+            - /url: https://www.nykaa.com/nykaa-cosmetics-whipped-blush-pot/p/22329571?transaction_id=f3e3cf73665c6c6036d8790df6d85cba
+            - img "Nykaa Cosmetics" [ref=e361]
+          - list [ref=e365] [cursor=pointer]:
+            - listitem [ref=e367]: Viral Whipped Blush
+        - generic [ref=e372]:
+          - link "Nykaa Cosmetics" [ref=e377] [cursor=pointer]:
+            - /url: https://www.nykaa.com/nykaa-cosmetics-x-bridgerton-creamy-matte-lipstick-sultry-scandal/p/25147853?transaction_id=d076f7b084b8f2b927265643b5e2d3f6
+            - img "Nykaa Cosmetics" [ref=e378]
+          - list [ref=e382] [cursor=pointer]:
+            - listitem [ref=e384]: Creamy Matte Lipsticks
+        - generic [ref=e389]:
+          - link "Nykaa Cosmetics" [ref=e394] [cursor=pointer]:
+            - /url: https://www.nykaa.com/nykaa-cosmetics-pro-press-on-nails/p/25408296?transaction_id=63635d3d2b94d67411cce60eb3d39f77
+            - img "Nykaa Cosmetics" [ref=e395]
+          - list [ref=e399] [cursor=pointer]:
+            - listitem [ref=e401]: Easy Stick-on Nails
+      - list [ref=e408]:
+        - listitem [ref=e409]:
+          - link "testing" [ref=e418] [cursor=pointer]:
+            - /url: http://www.nykaa.com
+            - img "testing" [ref=e419]
+      - generic [ref=e427]:
+        - generic [ref=e434] [cursor=pointer]:
+          - link "New Hya Beach Edit Summer Proof Makeup !" [ref=e437]:
+            - /url: https://www.nykaa.com/lakme-makeup-online-sale/c/1852?transaction_id=f2bd620cb9364c87153c9f2cd2033d94
+            - img "604" [ref=e438]
+          - generic [ref=e439]:
+            - generic [ref=e440]: New Hya Beach Edit
+            - generic [ref=e441]: Summer Proof Makeup !
+        - generic [ref=e448] [cursor=pointer]:
+          - link "Lightweight SPF No White Cast" [ref=e451]:
+            - /url: https://www.nykaa.com/brands/c/26410?transaction_id=24c5f0ebc3cf73eb74f05fbcca90dbc0
+            - img "26410" [ref=e452]
+          - generic [ref=e453]:
+            - generic [ref=e454]: Lightweight SPF
+            - generic [ref=e455]: No White Cast
+        - generic [ref=e462] [cursor=pointer]:
+          - link "Flat 10% Off On Entire Range" [ref=e465]:
+            - /url: https://www.nykaa.com/brands/c/9551?transaction_id=11ece2e9326cd4cd7db631c6463a9c5c
+            - img "9551" [ref=e466]
+          - generic [ref=e467]:
+            - generic [ref=e468]: Flat 10% Off
+            - generic [ref=e469]: On Entire Range
+        - generic [ref=e476] [cursor=pointer]:
+          - link "Derm-Test Sunscreen Exciting Gifts On New SPF" [ref=e479]:
+            - /url: https://www.nykaa.com/brands/c/3814?transaction_id=c2e0f9a634e993d059bb0798bc639c83
+            - img "3814" [ref=e480]
+          - generic [ref=e481]:
+            - generic [ref=e482]: Derm-Test Sunscreen
+            - generic [ref=e483]: Exciting Gifts On New SPF
+        - generic [ref=e490] [cursor=pointer]:
+          - 'link "On ₹4000: 2 Gifts! On ₹8,000: Exclusive Mirror!" [ref=e493]':
+            - /url: https://www.nykaa.com/brands/c/15967?transaction_id=19c04bbe76b8b6863ca600ea058b6805
+            - img "15967" [ref=e494]
+          - generic [ref=e495]:
+            - generic [ref=e496]: "On ₹4000: 2 Gifts!"
+            - generic [ref=e497]: "On ₹8,000: Exclusive Mirror!"
+        - generic [ref=e504] [cursor=pointer]:
+          - link "New Launch Non-Oily, Dewy Glow" [ref=e507]:
+            - /url: https://www.nykaa.com/brands/c/11433?transaction_id=d08affd19d3c1d592226ea10121b67ea
+            - img "11433" [ref=e508]
+          - generic [ref=e509]:
+            - generic [ref=e510]: New Launch
+            - generic [ref=e511]: Non-Oily, Dewy Glow
+        - generic [ref=e523] [cursor=pointer]:
+          - generic [ref=e524]: Free Gifts on ₹999+
+          - generic [ref=e525]: Be Sun Ready
+        - generic [ref=e537] [cursor=pointer]:
+          - generic [ref=e538]: Pouch on ₹2500
+          - generic [ref=e539]: Pouch + Mini ₹4500
+      - list [ref=e546]:
+        - listitem [ref=e547]:
+          - link "Sleep Day 13March" [ref=e556] [cursor=pointer]:
+            - /url: https://www.nykaa.com/wellness/shop-by-concern/calm-sleep/c/19857?transaction_id=8474292cfd184d558b06876cbf24052a
+            - img "Sleep Day 13March" [ref=e557]
+    - heading "Nykaa - The Online Beauty Store" [level=1] [ref=e560]
+  - generic [ref=e563] [cursor=pointer]: How may we help you
+```
