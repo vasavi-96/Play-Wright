@@ -1,1 +1,0 @@
-Dialog message: Message should be at least 10 characters long
